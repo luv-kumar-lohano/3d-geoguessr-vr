@@ -9,9 +9,9 @@ This project is a 3D VR recreation of the popular location guessing game, GeoGue
 ## **Key Features and Technologies**
 --------------------------------
 
-- **Immersive 3D VR Environment**: Utilized OpenGL for rendering and Boost Libraries for efficient data processing.
+- **Immersive 3D VR Environment**: Utilized OpenGL for rendering and Boost Libraries for efficient data processing to build 3D environments.
 - **Hardware Integration**: Incorporated Arduino Motherboard and IMU Sensors to enhance the VR experience.
-- **Course Project Achievement**: Originally built as a class project for HKU’s ELEC4547 - AR and VR course, where it secured 2nd position. Notably, I was the only freshman in the course.
+- **Course Project Achievement**: Originally built as a class project for HKU’s ELEC4547 - AR and VR course (4th Year Elective), where it secured 2nd position. Notably, I was the only freshman in the course.
 
 ## **Code Release**
 ----------------
